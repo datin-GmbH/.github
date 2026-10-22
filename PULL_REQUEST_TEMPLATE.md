@@ -1,5 +1,5 @@
-## What changed
+## What changed?
 
-## Why
+## Why/how?
 
 ## Not done / not tested
